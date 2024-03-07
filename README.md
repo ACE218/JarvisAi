@@ -34,7 +34,7 @@
     <p>Speak your command when prompted and interact with the assistant.</p>
 
   <h2>Configuration</h2>
-    <p>Customize the behavior of the AI voice assistant by modifying the configuration files. [Provide details on configuration options and file locations.]</p>
+    <p>Customize the behavior of the AI voice assistant by modifying the configuration files. </p>
 
   <h2>Contributing</h2>
     <p>If you would like to contribute to the project, follow these steps:</p>
@@ -48,8 +48,11 @@
 
   <h2>Acknowledgments</h2>
     <ul>
-        <li>[List any libraries, frameworks, or tools used and give credit to their creators]</li>
-        <li>[Any additional acknowledgments]</li>
+        <li>install pyttsx3 , 
+speech_recognition, 
+ datetime, 
+wikipedia , 
+ webbrowser</li>
     </ul>
 
   <h2>Contact</h2>
